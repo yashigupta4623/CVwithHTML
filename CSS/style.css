@@ -20,6 +20,10 @@ hr {
     width: 5%;
 }
 
-.img{
+.img:hover{
     background-color: blue;
+}
+
+.circular{
+    border-radius: 100%;
 }
