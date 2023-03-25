@@ -1,0 +1,25 @@
+body {
+    background-color: #528e8e;
+    color: rgb(0, 0, 0);
+}
+
+h1{
+    color: beige;
+}
+
+h2{
+    color: blue;
+}
+
+hr {
+    /* background-color: rgb(10, 10, 10); */
+    border-style: none;
+    border-top-style: dotted;
+    border-color: blueviolet;
+    border-width: 3px;
+    width: 5%;
+}
+
+.img{
+    background-color: blue;
+}
